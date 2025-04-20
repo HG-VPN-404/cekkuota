@@ -1,6 +1,2 @@
 github.com/gofiber/fiber/v2 v2.50.0 h1:xKASk64SVopMHQpqMy0ezsBFhZqGf0I0kyUKBsp8quA=
-github.com/gofiber/fiber/v2 v2.50.0/go.mod h1:ZDjvYg+JzByUxAfqZqVP1ozIE9fQYQpCCcFuLOceDWk=
-github.com/valyala/bytebufferpool v1.0.0 h1:JePxb3JeLqXLnCvjXGphJMYCjN5F7XB+5ZfXwG0GzT8=
-github.com/valyala/bytebufferpool v1.0.0/go.mod h1:V92J3afD+COGT0NPMfsGgF7y+K+8+ZBzTncB+vMf0SU=
-github.com/valyala/fasthttp v1.44.0 h1:ZHKqshLBd6m4qUSZh9B4PdxatNqgNBja4sU0TDJGLjM=
-github.com/valyala/fasthttp v1.44.0/go.mod h1:qlDfdfbDXWxKAdAlyzSnNHZ6vQZ+xDxjldN+Zonr1RM=
+github.com/gofiber/fiber/v2 v2.50.0/go.mod h1:tFzW6zV8LtEw/CfiD5MJXL5Z2D+KkyRJzDpxGqnmGcs=
